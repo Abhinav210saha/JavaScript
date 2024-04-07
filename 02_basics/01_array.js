@@ -15,7 +15,7 @@ const dc_hero=["superHero", "flash", "batman"]
 // const allHero= marvel_hero.concat(dc_hero)
 // console.log(allHero);
 
-// const all_Hero=[...marvel_hero,...dc_hero]
+ const all_Hero=[...marvel_hero,...dc_hero]  //{use for merge array}
 // console.log(all_Hero);
 
 let score1=377
